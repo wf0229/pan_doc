@@ -1,0 +1,23 @@
+site_name: 科大云盘用户手册
+site_url: https://pan.ustc.edu.cn/doc/
+repo_url: https://githu.com/wf0229/pan_doc
+repo_name: Github
+
+nav:
+        - Home: index.md
+        - Guide:
+                - Introduction: guide/introduction.md
+                  Setup: guide/setup.md
+
+theme:
+        name: material
+        palette:
+                primary: indigo
+                accent: indigo
+
+markdown_extensions:
+        - toc:
+                permalink: true
+        - tables
+        - admonition
+        - codehilite
