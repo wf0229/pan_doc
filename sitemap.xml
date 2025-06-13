@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://pan.ustc.edu.cn/doc/</loc>
-         <lastmod>2025-06-05</lastmod>
+         <lastmod>2025-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://pan.ustc.edu.cn/doc/faq/</loc>
+         <lastmod>2025-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://pan.ustc.edu.cn/doc/install/</loc>
+         <lastmod>2025-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://pan.ustc.edu.cn/doc/security/</loc>
+         <lastmod>2025-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://pan.ustc.edu.cn/doc/security/account/</loc>
+         <lastmod>2025-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://pan.ustc.edu.cn/doc/usage/</loc>
+         <lastmod>2025-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://pan.ustc.edu.cn/doc/usage/collaboration/</loc>
+         <lastmod>2025-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://pan.ustc.edu.cn/doc/usage/file_upload/</loc>
+         <lastmod>2025-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://pan.ustc.edu.cn/doc/usage/sharing/</loc>
+         <lastmod>2025-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://pan.ustc.edu.cn/doc/usage/versioning/</loc>
+         <lastmod>2025-06-13</lastmod>
     </url>
 </urlset>
