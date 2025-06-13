@@ -1,17 +1,46 @@
-# Welcome to MkDocs
+# 科大云盘使用手册
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+科大云盘基于 [Seafile](https://www.seafile.com/features/) 企业版定制开发，面向在校师生提供可性稳定的云盘服务，支持全平台客户端，系统还集成了 [OnlyOffice](https://www.onlyoffice.com/zh/)，支持在线协同编辑Word、Excel、PPT等。
 
-## Commands
+本手册详细介绍了科大云盘的各项功能和使用方法。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+## ✨ 平台特色
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- 🖥️ 跨平台支持：桌面端（Windows、macOS、Linux）、移动端（iOS、Android）、Web 页面均可访问
+- 🔗 WebDAV 挂载：支持作为本地磁盘挂载使用
+- 📤 文件上传下载：支持大文件断点续传
+- 👥 多人协作与权限控制：便于科研团队与项目共享
+- 🔒 安全机制：统一身份认证、PAT 支持、内容安全审查
+
+!!! note "温馨提示"
+
+    科大云盘系统目前尚在开发迭代中，WebDAV等功能尚未发布。
+
+---
+
+## 📚 使用指南快速入口
+
+请根据您的需求选择相应章节开始使用：
+
+- [安装指南](install/index.md)：桌面客户端、移动端与 WebDAV 配置
+- [使用教程](usage/index.md)：上传下载、分享、版本控制与协作
+- [常见问题](faq/index.md)：配额、Token 设置与常见错误排查
+- [安全与账户](security/index.md)：密码设置、应用密码、找回方式等
+
+---
+
+## 📢 注意事项
+
+- 本平台仅供中国科学技术大学师生在教学、科研及办公过程中使用。
+- 为保障系统安全与稳定，请勿上传法律禁止或敏感内容。
+- 若遇到系统问题，可通过邮件联系技术支持团队：**wf0229@ustc.edu.cn**
+
+---
+
+## 📌 云盘入口
+
+👉 [点击访问科大云盘](https://pan.ustc.edu.cn)
+
+---

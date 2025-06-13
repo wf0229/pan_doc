@@ -1,10 +1,25 @@
 site_name: 科大云盘用户手册
 site_url: https://pan.ustc.edu.cn/doc/
-repo_url: https://githu.com/wf0229/pan_doc
+repo_url: https://github.com/wf0229/pan_doc
 repo_name: Github
 
 nav:
-        - Home: index.md
+        - 首页: index.md
+        - 安装指南:
+                - 安装概述: install/index.md
+                - 桌面客户端: install/desktop.md
+                - 移动端使用: install/mobile.md
+                - WebDAV 挂载: install/webdav.md
+        - 使用教程:
+                - 使用概览: usage/index.md
+                - 文件上传与下载: usage/file_upload.md
+                - 文件分享与权限设置: usage/sharing.md
+                - 文件版本控制: usage/versioning.md
+                - 多人协作: usage/collaboration.md
+        - 常见问题: faq/index.md
+        - 安全与账户:
+                - 安全说明: security/index.md
+                - 账户安全与应用密码: security/account.md
 
 theme:
         name: material
