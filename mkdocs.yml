@@ -6,16 +6,9 @@ repo_name: Github
 nav:
         - 首页: index.md
         - 安装指南: install/index.md
-        - 使用教程:
-                - 使用概览: usage/index.md
-                - 文件上传与下载: usage/file_upload.md
-                - 文件分享与权限设置: usage/sharing.md
-                - 文件版本控制: usage/versioning.md
-                - 多人协作: usage/collaboration.md
+        - 个人云盘: personal/index.md
+        - 群组云盘: group/index.md
         - 常见问题: faq/index.md
-        - 安全与账户:
-                - 安全说明: security/index.md
-                - 账户安全与应用密码: security/account.md
 
 theme:
         name: material
