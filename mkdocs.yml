@@ -5,11 +5,7 @@ repo_name: Github
 
 nav:
         - 首页: index.md
-        - 安装指南:
-                - 安装概述: install/index.md
-                - 桌面客户端: install/desktop.md
-                - 移动端使用: install/mobile.md
-                - WebDAV 挂载: install/webdav.md
+        - 安装指南: install/index.md
         - 使用教程:
                 - 使用概览: usage/index.md
                 - 文件上传与下载: usage/file_upload.md
@@ -23,6 +19,7 @@ nav:
 
 theme:
         name: material
+        language: zh
         palette:
                 primary: indigo
                 accent: indigo
