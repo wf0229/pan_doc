@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://pan.ustc.edu.cn/doc/</loc>
-         <lastmod>2025-06-16</lastmod>
+         <lastmod>2025-06-17</lastmod>
     </url>
     <url>
          <loc>https://pan.ustc.edu.cn/doc/faq/</loc>
-         <lastmod>2025-06-16</lastmod>
+         <lastmod>2025-06-17</lastmod>
     </url>
     <url>
          <loc>https://pan.ustc.edu.cn/doc/group/</loc>
-         <lastmod>2025-06-16</lastmod>
-    </url>
-    <url>
-         <loc>https://pan.ustc.edu.cn/doc/group/account/</loc>
-         <lastmod>2025-06-16</lastmod>
+         <lastmod>2025-06-17</lastmod>
     </url>
     <url>
          <loc>https://pan.ustc.edu.cn/doc/install/</loc>
-         <lastmod>2025-06-16</lastmod>
+         <lastmod>2025-06-17</lastmod>
     </url>
     <url>
-         <loc>https://pan.ustc.edu.cn/doc/personal/</loc>
-         <lastmod>2025-06-16</lastmod>
+         <loc>https://pan.ustc.edu.cn/doc/library/</loc>
+         <lastmod>2025-06-17</lastmod>
+    </url>
+    <url>
+         <loc>https://pan.ustc.edu.cn/doc/private/</loc>
+         <lastmod>2025-06-17</lastmod>
+    </url>
+    <url>
+         <loc>https://pan.ustc.edu.cn/doc/register/</loc>
+         <lastmod>2025-06-17</lastmod>
     </url>
 </urlset>
