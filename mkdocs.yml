@@ -4,15 +4,22 @@ repo_url: https://github.com/wf0229/pan_doc
 repo_name: Github
 
 nav:
-        - 首页: index.md
-        - 安装指南: install/index.md
-        - 个人云盘: personal/index.md
-        - 群组云盘: group/index.md
-        - 常见问题: faq/index.md
+        - 开始使用: 
+                - 系统简介: index.md
+                - 注册登录: register.md
+                - 安装客户端: install.md
+        - 功能介绍: 
+                - 关于资料库: library.md
+                - 个人云盘: private.md
+                - 群组云盘: group.md 
+                - 
+        - 常见问题: faq.md
 
 theme:
         name: material
         language: zh
+        features:
+                - navigation.expand 
         palette:
                 primary: indigo
                 accent: indigo
