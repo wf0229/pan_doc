@@ -4,28 +4,43 @@ repo_url: https://github.com/wf0229/pan_doc
 repo_name: Github
 
 nav:
-        - 开始使用: 
-                - 系统简介: index.md
-                - 注册登录: register.md
-                - 安装客户端: install.md
-        - 功能介绍: 
-                - 关于资料库: library.md
-                - 个人云盘: private.md
-                - 群组云盘: group.md 
-        - 常见问题: faq.md
+  - 开始使用: 
+    - 系统简介: index.md
+    - 注册登录: register.md
+    - 安装客户端: install.md
+  - 功能介绍: 
+    - 关于资料库: library.md
+    - 个人云盘: private.md
+    - 群组云盘: group.md
+  - 网盘迁移:
+    - 概述: transfer/index.md
+    - 安装:
+      - 概述: transfer/installation/index.md
+      - 本地安装:
+        - Windows: transfer/installation/local/windows.md
+        - Linux: transfer/installation/local/linux.md
+      - 远程安装:
+        - VLab: transfer/installation/remote/vlab.md
+    - 使用: 
+      - 概述: transfer/user-guide/index.md
+      - 登录: transfer/user-guide/login.md
+      - 功能介绍: transfer/user-guide/usage.md
+    - 更多:
+      - Q&A: transfer/more/faq.md
+  - 常见问题: faq.md
 
 theme:
-        name: material
-        language: zh
-        features:
-                - navigation.expand 
-        palette:
-                primary: indigo
-                accent: indigo
+  name: material
+  language: zh
+  features:
+    - navigation.expand 
+  palette:
+    primary: indigo
+    accent: indigo
 
 markdown_extensions:
-        - toc:
-                permalink: true
-        - tables
-        - admonition
-        - codehilite
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+  - codehilite
