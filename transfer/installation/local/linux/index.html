@@ -1289,17 +1289,14 @@
 <p class="admonition-title">运行脚本后弹出好多黑框框？</p>
 <p>在运行 <code>run-linux.sh</code> 时，可能会弹出 2 个命令行窗口，分别是运行 reccli-ts 服务器和客户端的窗口。您可以最小化这些窗口，它们会在后台运行，但是请注意在迁移任务运行过程中<strong>不要</strong>关闭它们，否则 reccli-ts 将无法正常工作。等您<strong>确认</strong>所有迁移任务结束后，您可以关闭这些窗口来结束 reccli-ts 的运行。</p>
 </div>
-<hr />
 <div class="admonition question">
 <p class="admonition-title">无图形界面系统如何使用？</p>
 <p>如果您的 Linux 系统没有安装图形界面，那么 <code>run-linux.sh</code> 脚本会在后台运行 reccli-ts 服务器和客户端，脚本执行过程中会打印出它们的 PID，在<strong>确认</strong>完成迁移任务后，您可以通过 <code>pkill node</code> 或者 <code>kill &lt;PID&gt;</code> 命令来结束它们的运行。</p>
 </div>
-<hr />
 <div class="admonition question">
 <p class="admonition-title">运行脚本后浏览器访问不了？</p>
 <p>在运行 <code>run-linux.sh</code> 时，脚本会自动配置环境变量和依赖项，并编译该项目，因此执行时间可能会稍长，请耐心等待，直到能通过浏览器访问 <a href="http://localhost:5173">http://localhost:5173</a> 界面。</p>
 </div>
-<hr />
 <h2 id="_3">手动安装<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
 <p>如果您希望从源代码安装或自定义构建，可以按照以下步骤进行手动安装：</p>
 <h3 id="_4">前置条件<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h3>

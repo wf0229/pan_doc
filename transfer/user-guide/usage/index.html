@@ -1123,19 +1123,28 @@
 </ul>
 <p>其中，此次云盘迁移所需要涉及的目录只有 cloud 和 group，即个人云盘和群组云盘。</p>
 <p>在 PanDav WebDAV Storage 下，您可以看到科大新网盘的资料库列表，根目录下的几个资料库都是个人和群组的资料库，群组资料库的名称通常以“群组资料库”结尾，如图中所示。</p>
-<p>接着往下看，Transfer Control 块就是用来控制云盘迁移的过程的，其中 Max Concurrent Transfers 是用来设置迁移时的最大并发数（同时正在运行的迁移的文件数）的，默认值为 4，您可以根据自己的网络情况进行调整。</p>
+<p>接着往下看，Transfer Control 块就是用来控制云盘迁移的过程的，其中 Max Concurrent Transfers 是用来设置迁移时的最大并发数（同时正在运行的迁移的文件数）的，默认值为 2，您可以根据自己的网络情况进行调整。</p>
 <p>最下面的 Transfer Monitor 块就是列出正在传输的文件/文件夹列表，不过现在才刚登录所以还没有正在传输的任务。</p>
 <h2 id="_2">个人云盘迁移<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
 <p>首先点击左边 Rec Cloud Storage 的 cloud 目录，进入个人云盘的根目录。在这里，您能看到您的个人云盘文件列表，通过勾选文件或文件夹的复选框，您可以选择要迁移的文件或文件夹。</p>
 <p>然后，选择完毕后，点击 PanDav WebDAV Storage 下您想要迁移过去的科大新网盘资料库。</p>
 <p>例如：</p>
 <p><img alt="个人云盘迁移" src="../../assets/cloud.png" /></p>
+<div class="admonition note">
+<p class="admonition-title">查看迁移文件大小</p>
+<p>在选择一些文件或文件夹后，您可以在下面的提示栏中看到你所选中的文件或文件夹的总大小，这样可以帮助您判断是否有足够的空间来存储这些文件。</p>
+</div>
 <p>接着，在 Transfer Control 块中，您可以看到要传输的文件列表，要传输过去的目标资源库，在确认无误后，点击 Start Transfer 按钮即可开始迁移。</p>
 <p><img alt="个人云盘迁移控制" src="../../assets/transfer.png" /></p>
 <p>最后您能在最下面的 Transfer Monitor 块中看到迁移的进度和状态。</p>
 <p><img alt="个人云盘迁移进度" src="../../assets/process.png" /></p>
 <p>您可以暂停，恢复或取消迁移任务。</p>
 <h2 id="_3">群组云盘迁移<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
+<div class="admonition warning">
+<p class="admonition-title">检查群盘空间是否足够</p>
+<p>一个账号的云盘总大小 = 个人云盘大小 + 群组云盘中<strong>由该账号上传</strong>的文件的大小 &lt;= 1TB</p>
+<p>根据该公式，不难得出，个人云盘大小不会超过 1TB，但是群组云盘总大小很有可能会超过 1TB。因此，在群组云盘迁移过程前，请务必检查您所选择迁移的群组云盘文件的总大小是否超过每个人最多 1TB 的限制。如果超过了，您可以<strong>多找几个账号</strong>来分摊迁移的任务，或者联系管理员申请扩容。</p>
+</div>
 <p>群组云盘的迁移与个人云盘类似，首先点击左边 Rec Cloud Storage 的 group 目录，进入群组云盘的根目录。在这里，您能看到您所在的群组云盘列表，选择你想要迁移的群组并点击，进入该群组的云盘根目录，您可以选择要迁移的文件或文件夹。</p>
 <p>然后，选择 PanDav WebDAV Storage 下您想要迁移过去的科大新网盘资料库，群组资料库的名称通常以“群组资料库”结尾。</p>
 <p>接着，和个人云盘迁移过程是一样的，在 Transfer Control 块中，您可以看到要传输的文件列表和目标资源库，在确认无误后，点击 Start Transfer 按钮即可开始迁移。</p>
