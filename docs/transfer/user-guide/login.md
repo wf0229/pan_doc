@@ -8,7 +8,7 @@
 
 !!! note "账号密码说明"
 
-    - Rec 网盘账号密码通常就是您的统一身份认证账号密码。
+    - Rec 网盘账号密码通常就是您的统一身份认证账号密码【如果提示不对，请尝试修改密码之前的密码——一个已知bug，但是系统升级后不太好修改。如果都尝试后还不行请直接联系王老师邮箱wf0229@ustc.edu.cn】。
     - 科大新网盘的 WebDav 账号密码需要您在 [https://pan.ustc.edu.cn/my/webDav](https://pan.ustc.edu.cn/my/webDav) 页面上获取。
 
 !!! question "毕业师生没有科大新网盘账号怎么办？"
