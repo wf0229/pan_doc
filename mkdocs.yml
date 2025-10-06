@@ -44,3 +44,7 @@ markdown_extensions:
   - tables
   - admonition
   - codehilite
+  - pymdownx.superfences
+
+extra_javascript:
+  - https://unpkg.com/mermaid@11.12.0/dist/mermaid.min.js
