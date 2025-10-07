@@ -37,14 +37,21 @@ theme:
   palette:
     primary: indigo
     accent: indigo
-
+    
+plugins:
+  - search
+  - mermaid2
+  
 markdown_extensions:
   - toc:
       permalink: true
   - tables
   - admonition
   - codehilite
-  - pymdownx.superfences
-
-extra_javascript:
-  - https://unpkg.com/mermaid@11.12.0/dist/mermaid.min.js
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid_custom
