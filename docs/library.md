@@ -15,4 +15,4 @@
 
 如图所示，客户端软件会显示所有 资料库 。
 
-![alt text](_static/images/library.png_)
+![alt text](_static/images/library.png)
