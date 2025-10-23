@@ -129,7 +129,7 @@ Zotero 是一款开源的文献管理工具，可以帮助你：
 
 在 Zotero 客户端中，打开：编辑 → 设置 → 同步 → 文件同步，选择 **WebDAV** 方式，并填写：
 
-- **服务器地址**：`https://pan.ustc.edu.cn/deafdav/zotero/`  
+- **服务器地址**：`https://pan.ustc.edu.cn/seafdav/zotero/`  
 - **用户名 / 密码**：你的 WebDAV 账户信息  
 
 点击“验证服务器”，提示成功即可。
