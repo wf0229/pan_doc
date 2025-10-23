@@ -12,6 +12,8 @@ nav:
     - 关于资料库: library.md
     - 个人云盘: private.md
     - 群组云盘: group.md
+  - 进阶使用: 
+    - Zotero论文管理: zotero.md
   - 网盘迁移:
     - 概述: transfer/index.md
     - 安装:
