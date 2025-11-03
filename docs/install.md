@@ -64,7 +64,7 @@ Alpine:             sudo apk add fuse
 !!! warning "WebDAV方式的一次性密码"
     WebDAV依赖于第三方软件客户端，科大云盘通过一次性密码控制密码泄露风险，请在启用WebDAV方式后妥善保管密码，以免造成云盘文件和数据泄露。
 
-2. 在支持的第三方客户端中配置WevDAV，以Window 11 映射网络驱动器为例，；
+2. 在支持的第三方客户端中配置WevDAV，以Window 11 映射网络驱动器为例：
 
 ![科大云盘WebDAV配置第一步](_static/images/webdav-win-1.png)
 
