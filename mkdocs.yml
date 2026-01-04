@@ -30,6 +30,8 @@ nav:
     - 更多:
       - Q&A: transfer/more/faq.md
   - 常见问题: faq.md
+  - 服务协议: agreement.md
+  - 隐私政策: policy.md
 
 theme:
   name: material
