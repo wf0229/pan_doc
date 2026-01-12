@@ -5,11 +5,21 @@
 | 平台 | 访问方式 / 支持情况 | 说明 |
 | :-- | :-- | :-- |
 | 🌐 **网页版** | ✅[https://pan.ustc.edu.cn](https://pan.ustc.edu.cn) | 直接访问即可使用 |
-| 📱 **iOS / Android 客户端** | 应用商店下载 | 正在进行备案，尚未发布 |
+| 📱 **iOS / Android 客户端** | Android在云盘首页下载 | iOS还在走App Store上架的流程 |
 | 💻 **Windows 桌面客户端** | ✅ Windows 10 及以上版本<br>❌ 不支持 Windows 8.1 及更早版本 | [微软官方已停止支持Win8](https://www.microsoft.com/zh-cn/windows/end-of-support) |
 | 🍎 **macOS 桌面客户端** | ✅ macOS 11 及以上版本 |  |
 | 🐧 **Linux 桌面客户端** | ✅ 支持主流发行版 | 包括Ubuntu、Debian、Fedora等|
 | 🐧 **WevDAV** | ✅ 支持 | 支持 Cyberduck、rclone、zetero 等|
+
+---
+
+### Andorid 客户端安装
+
+1. 访问 [科大云盘首页](https://pan.ustc.edu.cn/home/index)，下载最新 Android 客户端安装包；
+2. 根据系统操作提示，设置允许安装；
+3. 启动客户端，使用统一身份认证即可登录使用。
+
+![科大云盘Android客户端安装](_static/images/android.jpg)
 
 ---
 
