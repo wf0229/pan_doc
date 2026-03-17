@@ -5,8 +5,8 @@
 | 平台 | 访问方式 / 支持情况 | 说明 |
 | :-- | :-- | :-- |
 | 🌐 **网页版** | ✅[https://pan.ustc.edu.cn](https://pan.ustc.edu.cn) | 直接访问即可使用 |
-| 📱 **iOS 客户端** | [苹果App Store下载](https://apps.apple.com/cn/app/%E7%A7%91%E5%A4%A7%E4%BA%91%E7%9B%98/id6759948951） | 点击左侧链接 |
-| 📱 **Android 客户端** | Android在云盘首页可扫码下载 | [点击下载](https://pan.ustc.edu.cn/client_app/download/Ustc_Drive_android_v1.0.0.apk) |
+| 📱 **iOS 客户端** | ✅[苹果App Store下载](https://apps.apple.com/cn/app/%E7%A7%91%E5%A4%A7%E4%BA%91%E7%9B%98/id6759948951) | 点击左侧链接 |
+| 📱 **Android 客户端** | ✅Android在云盘首页可扫码下载 | [也可点击直接下载](https://pan.ustc.edu.cn/client_app/download/Ustc_Drive_android_v1.0.0.apk) |
 | 💻 **Windows 桌面客户端** | ✅ Windows 10 及以上版本<br>❌ 不支持 Windows 8.1 及更早版本 | [微软官方已停止支持Win8](https://www.microsoft.com/zh-cn/windows/end-of-support) |
 | 🍎 **macOS 桌面客户端** | ✅ macOS 11 及以上版本 |  |
 | 🐧 **Linux 桌面客户端** | ✅ 支持主流发行版 | 包括Ubuntu、Debian、Fedora等|
