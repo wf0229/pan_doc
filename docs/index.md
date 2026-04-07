@@ -1,7 +1,7 @@
 # 科大云盘使用手册
 !!! warning "注意"
     
-    睿客网将于2025年12月下线，数据迁移工具已经发布，详见[链接](https://pan.ustc.edu.cn/doc/transfer/)，数据迁移工具也支持校友将数据下载至本地。
+    睿客网已下线，目前仅受理在校师生找回数据，数据迁移工具详见[链接](https://pan.ustc.edu.cn/doc/transfer/)。
 ---
 科大云盘基于 [Seafile 企业版](https://www.seafile.com/features/) 定制开发，支持文件的安全存储、自动备份、多终端同步与团队协作，支持全平台客户端访问，为教学、科研与办公场景提供高效的数据管理能力。系统同时系统集成 [OnlyOffice](https://www.onlyoffice.com/zh/)，可在线协作编辑 Word、Excel、PPT 等常用文档格式。
 
