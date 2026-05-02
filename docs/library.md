@@ -20,4 +20,4 @@
 
 如图所示，客户端软件会显示所有 资料库 。
 
-![alt text](_static/images/library.png)
+![资料库](_static/images/library.png)

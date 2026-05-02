@@ -8,8 +8,8 @@
 
 如果您需要在本地机器上安装和使用 reccli-ts，可以选择本地安装：
 
-- [Windows 安装指南](local/windows.md)
-- [Linux 安装指南](local/linux.md)
+- [Windows 安装指南](local/windows/)
+- [Linux 安装指南](local/linux/)
 
 !!! warning "确认您的网络环境"
 
@@ -24,7 +24,7 @@
 
 如果您需要在远程服务器中使用 reccli-ts，可以选择远程安装：
 
-- [VLab 环境安装指南](remote/vlab.md)
+- [VLab 环境安装指南](remote/vlab/)
 
 !!! tip "安装建议"
 

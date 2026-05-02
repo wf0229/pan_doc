@@ -10,11 +10,11 @@
 | 💻 **Windows 桌面客户端** | ✅ Windows 10 及以上版本<br>❌ 不支持 Windows 8.1 及更早版本 | [微软官方已停止支持Win8](https://www.microsoft.com/zh-cn/windows/end-of-support) |
 | 🍎 **macOS 桌面客户端** | ✅ macOS 11 及以上版本 |  |
 | 🐧 **Linux 桌面客户端** | ✅ 支持主流发行版 | 包括Ubuntu、Debian、Fedora等|
-| 🐧 **WevDAV** | ✅ 支持 | 支持 Cyberduck、rclone、zetero 等|
+| 🐧 **WebDAV** | ✅ 支持 | 支持 Cyberduck、rclone、zotero 等|
 
 ---
 
-### Andorid 客户端安装
+### Android 客户端安装
 
 1. 访问 [科大云盘首页](https://pan.ustc.edu.cn/home/index)，下载最新 Android 客户端安装包；
 2. 根据系统操作提示，设置允许安装；
@@ -70,16 +70,16 @@ Alpine:             sudo apk add fuse
 
 ### WebDAV 连接
 
-1. 访问 [科大云盘WevDAV配置页面](https://pan.ustc.edu.cn/my/webDav)，配置WebDAV访问密码；
+1. 访问 [科大云盘WebDAV配置页面](https://pan.ustc.edu.cn/my/webDav)，配置WebDAV访问密码；
 
 !!! warning "WebDAV方式的一次性密码"
     WebDAV依赖于第三方软件客户端，科大云盘通过一次性密码控制密码泄露风险，请在启用WebDAV方式后妥善保管密码，以免造成云盘文件和数据泄露。
 
-2. 在支持的第三方客户端中配置WevDAV，以Window 11 映射网络驱动器为例：
+2. 在支持的第三方客户端中配置WebDAV，以Window 11 映射网络驱动器为例：
 
 ![科大云盘WebDAV配置第一步](_static/images/webdav-win-1.png)
 
-![科大云盘WebDAV配置第二部](_static/images/webdav-win-2.png)
+![科大云盘WebDAV配置第二步](_static/images/webdav-win-2.png)
 
 3. 确认后即可完成WebDAV连接，其他第三方软件客户端参考配置即可。
 
